@@ -2,5 +2,7 @@
 
 ## This a student homework using https://pokeapi.co/
 
-### To launch the server 
-#### php -S localhost:8080
+To launch the server 
+`php -S localhost:3000`
+
+_Enjoy !_
